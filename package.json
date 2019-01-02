@@ -56,7 +56,7 @@
   "dependencies": {
     "@feathersjs/adapter-commons": "^1.0.4",
     "@feathersjs/commons": "^4.0.0",
-    "@feathersjs/errors": "^3.3.5"
+    "@feathersjs/errors": "^3.3.6"
   },
   "devDependencies": {
     "@feathersjs/express": "^1.3.0",
